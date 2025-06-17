@@ -1,0 +1,99 @@
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Dashbroad.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlysach.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtindocgia.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlytheloaisach.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Capthedocgia.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Muonsach.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Trasach.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Xulyphat.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkeluotmuonsach.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachthatlac.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachcanthanhly.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongketrasachquahan.resources
+C:\Users\phamd\source\repos\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Chitietphieumuon.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Capthedocgia.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Chitietphieumuon.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Dashbroad.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Muonsach.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlytheloaisach.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkeluotmuonsach.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachcanthanhly.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachthatlac.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongketrasachquahan.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtindocgia.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlysach.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Trasach.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Xulyphat.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Capthedocgia.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Chitietphieumuon.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Dashbroad.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Muonsach.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlytheloaisach.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkeluotmuonsach.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachcanthanhly.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachthatlac.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongketrasachquahan.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtindocgia.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlysach.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Trasach.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Xulyphat.resources
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\phamd\Downloads\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtincanhan.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.AssemblyReference.cache
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Capthedocgia.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Chitietphieumuon.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Dashbroad.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Form1.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Muonsach.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlytheloaisach.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkeluotmuonsach.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachcanthanhly.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongkesachthatlac.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongketrasachquahan.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtincanhan.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Quanlysach.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Trasach.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Xulyphat.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.cache
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtindocgia.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\obj\Debug\Quanlythuvien.The.resources
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\bin\Debug\QuanLyMuonTra.mdf
+C:\Users\cuong\Desktop\Quanlythuvien (1)\Quanlythuvien\bin\Debug\QuanLyMuonTra_log.ldf
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.The.resources
+C:\Users\cuong\Desktop\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Thongtincanhan.resources
